@@ -1,3 +1,11 @@
+# Descrição do exercício
+Nesse exercício, tivemos que alterar o gerenciamento de estado do projeto que está sendo o "useState" para um gerenciamento com Redux. Para isso, precisamos: 
+- usar o Redux Toolkit;
+- criar um slice para o carrinho;
+- utilizar o Redux Toolkit Query para as requisições;
+- utilizar o useSelector;
+- utilizar o useDispatch.
+
 # Descrição do conteúdo do módulo
 
 Durante o módulo, nós: 
